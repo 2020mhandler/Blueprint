@@ -1,0 +1,31 @@
+body {
+    background-color: burlywood;
+
+}
+
+p {
+    font-family: verdana;
+    font-size: 15px;
+    font-style: normal;
+    text-align: left;
+    outline-color: orange;
+}
+
+h1 {
+    text-align: center;
+}
+
+title {
+    text-align: center;
+}
+
+.NavBar {
+    float: left;
+    height: 100vh;
+    width: 15%;
+    background-color: powderblue;
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+    border: blue;
+}
